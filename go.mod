@@ -22,14 +22,12 @@ require (
 	github.com/container-storage-interface/spec v0.3.0
 	github.com/containerd/continuity v0.0.0-20190827140505-75bee3e2ccb6 // indirect
 	github.com/containernetworking/cni v0.6.0
-	github.com/coredns/coredns v1.3.0
+	github.com/coredns/coredns v1.6.6
 	github.com/coreos/etcd v3.3.25+incompatible
 	github.com/dbdd4us/qcloudapi-sdk-go v0.0.0-20190530123522-c8d9381de48c
 	github.com/deckarep/golang-set v1.7.1
-	github.com/dnstap/golang-dnstap v0.0.0-20170829151710-2cf77a2b5e11 // indirect
 	github.com/docker/docker v17.12.0-ce-rc1.0.20181223114339-d147fe0582f4+incompatible // indirect
 	github.com/emicklei/go-restful v2.15.0+incompatible
-	github.com/farsightsec/golang-framestream v0.0.0-20181102145529-8a0cb8ba8710 // indirect
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/fsouza/go-dockerclient v1.6.0
 	github.com/go-openapi/analysis v0.19.6 // indirect
@@ -42,7 +40,6 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0 // indirect
-	github.com/grpc-ecosystem/grpc-opentracing v0.0.0-20180507213350-8e809c8a8645 // indirect
 	github.com/haproxytech/client-native v0.0.0-00010101000000-000000000000
 	github.com/haproxytech/models v1.2.5-0.20191122125615-30d0235b81ec
 	github.com/imdario/mergo v0.3.11 // indirect
@@ -70,7 +67,8 @@ require (
 	github.com/ugorji/go/codec v1.2.3
 	go.mongodb.org/mongo-driver v1.5.3
 	go4.org v0.0.0-20190313082347-94abd6928b1d
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
+	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 // indirect
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	google.golang.org/grpc v1.33.1
 	k8s.io/api v0.18.16
 	k8s.io/apiextensions-apiserver v0.18.6
