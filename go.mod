@@ -21,7 +21,7 @@ require (
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/container-storage-interface/spec v0.3.0
 	github.com/containerd/continuity v0.0.0-20190827140505-75bee3e2ccb6 // indirect
-	github.com/containernetworking/cni v0.6.0
+	github.com/containernetworking/cni v0.8.1
 	github.com/coredns/coredns v1.3.0
 	github.com/coreos/etcd v3.3.25+incompatible
 	github.com/dbdd4us/qcloudapi-sdk-go v0.0.0-20190530123522-c8d9381de48c
